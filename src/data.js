@@ -25,19 +25,19 @@ export const sliderItems = [
 export const categories = [
     {
         id: 1,
-        img: "https://images.pexels.com/photos/5886041/pexels-photo-5886041.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        img: "https://img-z.okeinfo.net/okz/500/library/images/2021/08/31/wutssdjdcp1pvqgoo5w7_13518.jpg",
         title: "SHIRT STYLE!",
-        cat: "women"
+        cat: "persib"
     },
     {
         id: 2,
-        img: "https://images.pexels.com/photos/2983464/pexels-photo-2983464.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        img: "https://images.tokopedia.net/img/cache/500-square/product-1/2020/8/31/206848/206848_f789c125-46ce-4a31-9b76-33b824a00be1_700_700",
         title: "LOUNGEWEAR LOVE",
         cat: "coat"
     },
     {
         id: 3,
-        img: "https://images.pexels.com/photos/5480696/pexels-photo-5480696.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        img: "https://images.tokopedia.net/img/cache/500-square/VqbcmM/2020/9/28/1885c469-3d50-435d-a6c4-db5ae160ffc3.png",
         title: "LIGHT JACKETS",
         cat: "jeans"
     },
