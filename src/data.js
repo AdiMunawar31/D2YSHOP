@@ -46,34 +46,34 @@ export const categories = [
 export const popularProducts = [
     {
         id: 1,
-        img: "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2021/09/01/3397161086.jpg",
+        img: "https://id-test-11.slatic.net/p/937ae95b4fdc81375f1079ce833c2e98.png",
     },
     {
         id: 2,
-        img: "https://cf.shopee.com.my/file/02b69f9dee539fa078ed186c3266363f",
+        img: "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//105/MTA-9391848/juara_juara_persija_jersey_kids_supporter_version_home_full01_n47wtw4v.jpg",
     },
     {
         id: 3,
-        img: "https://www.prada.com/content/dam/pradanux_products/U/UCS/UCS319/1YOTF010O/UCS319_1YOT_F010O_S_182_SLF.png",
+        img: "https://cf.shopee.co.id/file/c73c0ea4f0cb3390cc519afcfdb39bd7",
     },
     {
         id: 4,
-        img: "https://www.burdastyle.com/pub/media/catalog/product/cache/7bd3727382ce0a860b68816435d76e26/107/BUS-PAT-BURTE-1320516/1170x1470_BS_2016_05_132_front.png",
+        img: "https://s4.bukalapak.com/img/41318754982/s-330-330/data.jpeg.webp",
     },
     {
         id: 5,
-        img: "https://images.ctfassets.net/5gvckmvm9289/3BlDoZxSSjqAvv1jBJP7TH/65f9a95484117730ace42abf64e89572/Noissue-x-Creatsy-Tote-Bag-Mockup-Bundle-_4_-2.png",
+        img: "https://images.tokopedia.net/img/cache/250-square/hDjmkQ/2021/6/17/1ad98bef-ceba-49c4-afd2-5d93faeae4cf.jpg",
     },
     {
         id: 6,
-        img: "https://d3o2e4jr3mxnm3.cloudfront.net/Rocket-Vintage-Chill-Cap_66374_1_lg.png",
+        img: "https://id-live-05.slatic.net/p/1bd233547fe12c843878674f444355f4.jpg_720x720q80.jpg_.webp",
     },
     {
         id: 7,
-        img: "https://www.vintageindustries.nl/download_front/qympzk1762/2217_Arrow_Jacket_Forest.png",
+        img: "https://img20.jd.id/Indonesia/s800x800_/nHBfsgAAAwAAAAMACFO6nwABPvs.jpg",
     },
     {
         id: 8,
-        img: "https://www.pngarts.com/files/3/Women-Jacket-PNG-High-Quality-Image.png",
+        img: "https://cf.shopee.co.id/file/c810bd45139302b206a6c690a282bf72",
     },
 ]
