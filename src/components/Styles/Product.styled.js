@@ -24,7 +24,6 @@ export const Container = styled.div`
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: #f5fbfd;
   position: relative;
   &:hover ${Info}{
     opacity: 1;
@@ -40,7 +39,7 @@ export const Circle = styled.div`
 `;
 
 export const Image = styled.img`
-  height: 75%;
+  height: 90%;
   z-index: 2;
 `;
 

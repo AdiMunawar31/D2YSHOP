@@ -46,11 +46,11 @@ export const categories = [
 export const popularProducts = [
     {
         id: 1,
-        img: "https://d3o2e4jr3mxnm3.cloudfront.net/Mens-Jake-Guitar-Vintage-Crusher-Tee_68382_1_lg.png",
+        img: "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2021/09/01/3397161086.jpg",
     },
     {
         id: 2,
-        img: "https://cdn.shopify.com/s/files/1/0101/4832/products/Angela_Natural_Tee.png?v=1606780388",
+        img: "https://cf.shopee.com.my/file/02b69f9dee539fa078ed186c3266363f",
     },
     {
         id: 3,
