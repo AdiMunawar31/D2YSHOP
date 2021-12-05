@@ -40,13 +40,13 @@ const Footer = () => {
       <Right>
         <Title>Contact</Title>
         <ContactItem>
-          <Room style={{ marginRight: '10px' }} /> 622 Dixie Path , South Tobinchester 98336
+          <Room style={{ marginRight: '10px' }} /> 45557 Mandirancan - Kuningan , Jawa Barat
         </ContactItem>
         <ContactItem>
-          <Phone style={{ marginRight: '10px' }} /> +1 234 56 78
+          <Phone style={{ marginRight: '10px' }} /> +62 815 6375 4507
         </ContactItem>
         <ContactItem>
-          <MailOutline style={{ marginRight: '10px' }} /> contact@lama.dev
+          <MailOutline style={{ marginRight: '10px' }} /> d2y.channel31@gmail.com
         </ContactItem>
         <Payment src="https://i.ibb.co/Qfvn4z6/payment.png" />
       </Right>

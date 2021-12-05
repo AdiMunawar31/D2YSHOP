@@ -1,7 +1,7 @@
 import { Send } from '@material-ui/icons';
 import { Container, Title, Desc, Input, Button, InputContainer } from './Styles/NewsLetter.styled';
 
-const NewsLetter = () => {
+const Newsletter = () => {
   return (
     <Container>
       <Title>Newsletter</Title>
@@ -16,4 +16,4 @@ const NewsLetter = () => {
   );
 };
 
-export default NewsLetter;
+export default Newsletter;

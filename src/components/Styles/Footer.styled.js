@@ -5,7 +5,7 @@ export const Container = styled.div`
   display: flex;
   margin-left: 60px;
   padding: 10px;
-  ${mobile({ flexDirection: "column" })}
+  ${mobile({ flexDirection: "column", marginLeft: 20 })}
 `;
 
 export const Left = styled.div`
