@@ -1,3 +1,5 @@
+import { Container, Wrapper, Form, Input, Agreement, Button, Title } from '../components/Styles/Register.styled';
+
 const Register = () => {
   return (
     <Container>

@@ -17,7 +17,7 @@ export const Container = styled.div`
 `;
 
 export const Wrapper = styled.div`
-  width: 40%;
+  width: 25%;
   padding: 20px;
   background-color: white;
   border-radius: 5px;
@@ -31,19 +31,14 @@ export const Title = styled.h1`
 
 export const Form = styled.form`
   display: flex;
-  flex-wrap: wrap;
+  flex-direction: column;
 `;
 
 export const Input = styled.input`
   flex: 1;
   min-width: 40%;
-  margin: 20px 10px 0px 0px;
+  margin: 10px 0;
   padding: 10px;
-`;
-
-export const Agreement = styled.span`
-  font-size: 12px;
-  margin: 20px 5px;
 `;
 
 export const Button = styled.button`
@@ -53,4 +48,20 @@ export const Button = styled.button`
   background-color: #08349b;
   color: white;
   cursor: pointer;
+  margin-bottom: 10px;
+  &:disabled {
+    color: green;
+    cursor: not-allowed;
+  }
+`;
+
+export const Link = styled.a`
+  margin: 5px 0px;
+  font-size: 12px;
+  text-decoration: underline;
+  cursor: pointer;
+`;
+
+export const Error = styled.span`
+  color: red;
 `;
